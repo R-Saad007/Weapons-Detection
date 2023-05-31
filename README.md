@@ -1,2 +1,2 @@
 # Weapons-Detection
-### Weapons Detector (work in progress)
+### (work in progress)
