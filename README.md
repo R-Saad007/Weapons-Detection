@@ -3,8 +3,9 @@
 ```git clone https://github.com/ultralytics/yolov5.git```
 
 ```pip install -r requirements.txt```
-## Test videos have been added from youtube (due to unavailability of the custom requirements)
-
+## Test videos have been added from YouTube due to unavailability of the custom requirements
+- vid1.mp4
+- vid2.mp4
 ## Execution:
 ### YOLOv8:
 ```python handler.py -vid_path```
