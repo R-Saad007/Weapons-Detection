@@ -1,5 +1,4 @@
-# Weapons Detector
-### (work in progress)
+# Weapons Detector (work in progress)
 ## Execution:
 ### YOLOv8:
 ```python handler.py -vid_path```
