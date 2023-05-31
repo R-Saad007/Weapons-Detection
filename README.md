@@ -8,8 +8,8 @@
 - vid2.mp4
 ## Execution:
 ### YOLOv8:
-```python handler.py -vid_path```  
-Weight file has been added as well (yolov8n.pt)
+Weight file has been added as well (yolov8n.pt)  
+```python handler.py -vid_path```
 ### YOLOv5:
-```python handler_yolov5.py```  
-Weight file has been added as well (yolov5m_Objects365.pt)
+Weight file has been added as well (yolov5m_Objects365.pt)  
+```python handler_yolov5.py```
