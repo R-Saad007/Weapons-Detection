@@ -9,5 +9,7 @@
 ## Execution:
 ### YOLOv8:
 ```python handler.py -vid_path```
+Weight file has been added as well (yolov8n.pt)
 ### YOLOv5:
 ```python handler_yolov5.py```
+Weight file has been added as well (yolov5m_Objects365.pt)
