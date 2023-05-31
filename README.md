@@ -1,6 +1,7 @@
 # Weapons Detector (work in progress)
 ## Need to clone YOLO repository:
 ```git clone https://github.com/ultralytics/yolov5.git```  
+
 ```pip install -r requirements.txt```
 ## Execution:
 ### YOLOv8:
